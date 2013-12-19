@@ -7,6 +7,8 @@ int main(int argc, char *argv[])
 {
     //some comment
     qDebug() <<"Merge test";
+    qDebug() << 'dslfkdsj';
+
     QApplication a(argc, argv);
     MainWindow w;
     w.show();
